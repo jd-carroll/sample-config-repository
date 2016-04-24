@@ -13,3 +13,6 @@ jhipster:
         authentication:
             jwt:
                 secret: my-secret-token-to-change-in-production
+
+curatorial:
+    test: sample
